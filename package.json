@@ -1,0 +1,12 @@
+{
+  "name": "quizorbit-coaching-test-library",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static coaching-wise HTML quiz library deployable to Vercel and Render",
+  "scripts": {
+    "build": "node scripts/build-manifest.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
